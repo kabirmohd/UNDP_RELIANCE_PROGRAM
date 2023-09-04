@@ -2,7 +2,8 @@
 #### First you need to Set up the SSMS and download Data migration instance.  
 ##### To Download the two database instance. click on the link 
 ####  (https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0) and https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
-1. Go to SSMS, connect and restore the database by right clicking on the **DATABASE* to restore the database. 
+1. Go to SSMS, connect and restore the database by right clicking on the **DATABASE* to restore the database. ![restore-db-ssms1](https://github.com/kabirmohd/UNDP_RELIANCE_PROGRAM/assets/139928266/9ce3f5f7-d683-4438-99c0-8311b9ebfe9b)
+
 2. Click on Device, locate the device, click add,copy the link and go to file explorer and paste(This pc)
 3. Copy the backup file;(Adventurework)
 4. To continue in restoring the database,refresh and click ok. It will show restore successful.
