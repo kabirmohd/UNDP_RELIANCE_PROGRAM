@@ -10,7 +10,7 @@
 5. click on the Adventurework database
 6. Go to Data migration instance, click on the + icon to perform the assessement.![new-assessment](https://github.com/kabirmohd/UNDP_RELIANCE_PROGRAM/assets/139928266/75e8a36d-1db7-4a06-9d17-08b14a111e22)
 
-7. Give the project a name e.g Adventurework_DB,check and choose the target server type(Azure SQL database) and click create.
+7. Project a name e.g Adventurework_Database,choose the target server type(Azure SQL database) and click create.
 8. Connect to a server by pasting the server name copied frm SSMS and connect.
 9. Click on the database been worked on(Adventurework) on the sewrver. Click add, start the assessment and save.
 10. Test against Azure SQL managed instance, the Azure VM.
