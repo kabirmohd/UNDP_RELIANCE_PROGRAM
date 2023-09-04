@@ -12,6 +12,7 @@
 
 7. Project a name e.g Adventurework_Database,choose the target server type(Azure SQL database) and click create.![{061A5889-9498-404C-81E6-0A3A28CCE284} png](https://github.com/kabirmohd/UNDP_RELIANCE_PROGRAM/assets/139928266/6a227fcc-6188-4136-91aa-711b191085b1)
 
-8. Connect to a server by pasting the server name copied frm SSMS and connect.
+8. Connect to a server by pasting the server name copied frm SSMS and connect.![{758EB80A-27FA-4047-B65B-F076486D302F}2](https://github.com/kabirmohd/UNDP_RELIANCE_PROGRAM/assets/139928266/ff24a4d2-e87d-40e0-9bc6-aac1e1a0eced)
+
 9. Click on the database been worked on(Adventurework) on the sewrver. Click add, start the assessment and save.
 10. Test against Azure SQL managed instance, the Azure VM.
