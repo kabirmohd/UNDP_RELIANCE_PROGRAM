@@ -16,6 +16,7 @@
 
 8. Connect to a server by pasting the server name copied frm SSMS and connect.![{758EB80A-27FA-4047-B65B-F076486D302F}2](https://github.com/kabirmohd/UNDP_RELIANCE_PROGRAM/assets/139928266/ff24a4d2-e87d-40e0-9bc6-aac1e1a0eced)
 
-9. Tab on the database (Adventurework) on the server. Click add to start the assessment and save.![Inked{30056701-53DE-4F2A-9B3E-CADD4B918151}3_LI](https://github.com/kabirmohd/UNDP_RELIANCE_PROGRAM/assets/139928266/f204a02c-b4bc-415a-8f78-fb85679f8153)
+9. Tab on the database (Adventurework) on the server. Click add to start the assessment and save.![Inked{30056701-53DE-4F2A-9B3E-CADD4B918151}3_LI](https://github.com/kabirmohd/UNDP_RELIANCE_PROGRAM/assets/139928266/f204a02c-b4bc-415a-8f78-fb85679f8153) ![All assessment](https://github.com/kabirmohd/UNDP_RELIANCE_PROGRAM/assets/139928266/0035bc90-b5df-4b0b-ba9e-7e70c96013fe)
+
 
 10. Test against Azure SQL managed instance, the Azure VM.
