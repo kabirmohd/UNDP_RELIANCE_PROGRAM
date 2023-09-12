@@ -1,6 +1,7 @@
 #steps to create a backup account
 
-login into azure portal 
+login into azure portal ![azure](https://github.com/kabirmohd/UNDP_RELIANCE_PROGRAM/assets/139928266/cd0aaf23-cab1-4892-b342-6b64946bc7bf)
+
 
 goto resources to create a storage account creating storage account
 
