@@ -7,10 +7,11 @@
 
 
 
-3.after creating the storage account goto container![STEP2 jpg](https://github.com/kabirmohd/UNDP_RELIANCE_PROGRAM/assets/139928266/977293d7-51d9-438e-8e43-2490f00496cd)
+3.after creating the storage account goto container
 
 
-4.create new container creating container
+4.create new container creating container![STEP2 jpg](https://github.com/kabirmohd/UNDP_RELIANCE_PROGRAM/assets/139928266/b14468ba-8d97-4e74-adab-26b50a894a40)
+
 
 5.generate SAS key generating sas token
 
