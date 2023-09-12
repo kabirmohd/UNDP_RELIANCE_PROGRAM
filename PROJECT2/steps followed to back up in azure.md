@@ -3,9 +3,11 @@
 1.login into azure portal ![azure](https://github.com/kabirmohd/UNDP_RELIANCE_PROGRAM/assets/139928266/cd0aaf23-cab1-4892-b342-6b64946bc7bf)
 
 
-2.goto resources to create a storage account creating storage account
+2.goto resources to create a storage account creating storage account![STEP1 jpg](https://github.com/kabirmohd/UNDP_RELIANCE_PROGRAM/assets/139928266/eba647c5-389e-40ca-adfe-245eac12fbc5)
 
-3.after creating the storage account goto container
+
+3.after creating the storage account goto container![STEP2 jpg](https://github.com/kabirmohd/UNDP_RELIANCE_PROGRAM/assets/139928266/977293d7-51d9-438e-8e43-2490f00496cd)
+
 
 4.create new container creating container
 
